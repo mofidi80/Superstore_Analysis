@@ -9,7 +9,7 @@
 <h3 align="center">Superstore Dataset Analysis</h3>
 
   <p align="center">
-    Analyzing sales data of a ecommerce company and providing customer segments.
+    Analyzing sales data of an ecommerce company and providing customer segments.
     <br />
     <a href="https://github.com/mofidi80/Superstore_Analysis"><strong>Explore the docs »</strong></a>
     <br />
@@ -36,12 +36,12 @@
 </details>
 
 ## About The Project
-In this project we will analyze sales data and provide customer segments for an ecommerce company.
+In this project, we will analyze sales data and provide customer segments for an ecommerce company.
 
 ### Outcomes
 1. Deal with null and duplicate entries.
 2. Provide exploratory data analysis and visualization.
-3. Provide distince customer segments based on the features in dataset.
+3. Provide distinct customer segments based on the features in the dataset.
 
 #### Use this link to easily view the notebook online:https://nbviewer.org/github/mofidi80/Superstore_Analysis/blob/main/superstore_analysis.ipynb
 
@@ -69,7 +69,7 @@ In this project we will analyze sales data and provide customer segments for an 
 ## Installation
 1. First intall jupyter notebook from the link below if you haven't already.
    + https://jupyter.org/install
-2. Make sure you have all the libraries mentioned in Built With section installed. If not first run your environment then use the following commands:
+2. Make sure you have all the libraries mentioned in Built With section installed; If not first run your environment then use the following commands:
 + Numpy:
   ```console
   pip install numpy
@@ -93,7 +93,7 @@ In this project we will analyze sales data and provide customer segments for an 
 
 
 ## Possible usage
-Can be used to answer business questions such as resource alocation, targeted marketing, etc.
+Can be used to answer business questions such as resource allocation, targeted marketing, etc.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
