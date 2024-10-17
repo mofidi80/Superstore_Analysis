@@ -49,7 +49,7 @@ In this project we will analyze sales data and provide customer segments for an 
 2. Provide exploratory data analysis and visualization
 3. Provide distince customer segments based on the features in dataset.
 
-#### *** Use the "superstore_analysis.ipynb" notebook file ***
+#### Use this link to easily view the notebook online:https://nbviewer.org/github/mofidi80/Superstore_Analysis/blob/main/superstore_analysis.ipynb
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
