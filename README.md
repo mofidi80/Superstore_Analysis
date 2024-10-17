@@ -49,7 +49,7 @@ In this project we will analyze sales data and provide customer segments for an 
 2. Provide exploratory data analysis and visualization
 3. Provide distince customer segments based on the features in dataset.
 
-#### *** Use the ipynb notebook file ***
+#### *** Use the "superstore_analysis.ipynb" notebook file ***
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,7 +92,9 @@ In this project we will analyze sales data and provide customer segments for an 
   ```console
   pip install scikit-learn
   ```
-  
+3. Download the "Sample - Superstore.csv" dataset csv file.
+4. Download the "superstore_analysis.ipynb" notebook.
+5. Change the file directory of the dataset in line 2 to what it is on your system.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
