@@ -137,8 +137,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Mohammad Mofidi - https://www.instagram.com/_mohammadmofidi/ -- mohammad.mofidi.k@gmail.com
+Mohammad Mofidi
+* Email: mohammad.mofidi.k@gmail.com
+* Linkedin: https://www.linkedin.com/in/mohammad-mofidi-khajeh-2715832b8/
+* Instagram: https://www.instagram.com/_mohammadmofidi/
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
