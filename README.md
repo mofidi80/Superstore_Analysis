@@ -52,7 +52,7 @@ In this project we will analyze sales data and provide customer segments for an 
 #### *** Use the ipynb notebook file ***
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-___
+
 
 ## Built With
 * Python
@@ -62,7 +62,7 @@ ___
    + Scikit-Learn
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-___
+
 
 ## Skills Required
 * Exploratory Data Analysis
@@ -70,37 +70,37 @@ ___
 * Segmentation ML Models
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-___
+
 
 ## Installation
 1. First intall jupyter notebook from the link below if you haven't already.
    + https://jupyter.org/install
 2. Make sure you have all the libraries mentioned in Built With section installed. If not first run your environment then use the following commands:
 + Numpy:
-  * ```console
+  ```console
   pip install numpy
   ```
 + Pandas:
-  *  ```console
+  ```console
   pip install pandas
   ```
 + Matplotlib:
-  *  ```console
+  ```console
   pip install matplotlib
   ```
 + Scikit-Learn:
-  * ```console
+  ```console
   pip install scikit-learn
   ```
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-___
+
 
 ## Possible usage
 Can be used to answer business questions such as resource alocation, targeted marketing, etc.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-___
+
 
 
 <!-- CONTRIBUTING -->
@@ -124,7 +124,7 @@ Don't forget to give the project a star! Thanks again!
 <a href="https://github.com/mofidi80/Superstore_Analysis/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=mofidi80/Superstore_Analysis" alt="contrib.rocks image" />
 </a>
-___
+
 
 <!-- LICENSE -->
 ## License
@@ -132,7 +132,7 @@ ___
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-___
+
 
 
 <!-- CONTACT -->
