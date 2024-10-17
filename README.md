@@ -81,15 +81,15 @@ ___
   pip install numpy
   ```
 + Pandas:
-  * ```console
+  *  ```console
   pip install pandas
   ```
 + Matplotlib:
-  * ```console
+  *  ```console
   pip install matplotlib
   ```
 + Scikit-Learn:
-  *```console
+  * ```console
   pip install scikit-learn
   ```
   
