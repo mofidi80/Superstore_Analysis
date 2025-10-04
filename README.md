@@ -8,7 +8,7 @@
 
 <h3 align="center">Superstore Dataset Analysis</h3>
 
-![Alt text](https://github.com/mofidi80/Superstore_Analysis/blob/Supermarket Data Analysis Visualization_simple_compose_01k1r1nchrfva8z1hmvrxq529j.png?raw=true)
+![Alt text](https://github.com/mofidi80/Superstore_Analysis/blob/3337a2044973b7f82a54384ea5136890d283d791/blob/Supermarket%20Data%20Analysis%20Visualization_simple_compose_01k1r1nchrfva8z1hmvrxq529j.png)
 
   <p align="center">
     Analyzing sales data of an ecommerce company and providing customer segments.
