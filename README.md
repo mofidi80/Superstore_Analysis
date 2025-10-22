@@ -45,8 +45,6 @@ In this project, we will analyze sales data and provide customer segments for an
 2. Provide exploratory data analysis and visualization.
 3. Provide distinct customer segments based on the features in the dataset.
 
-#### Use this link to easily view the notebook online:https://nbviewer.org/github/mofidi80/Superstore_Analysis/blob/main/superstore_analysis.ipynb
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -137,7 +135,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 Mohammad Mofidi
 * Email: mohammad.mofidi.k@gmail.com
-* Linkedin: https://www.linkedin.com/in/mohammad-mofidi-khajeh-2715832b8/
+* Linkedin: https://www.linkedin.com/in/mohammad-mofidikhajeh
 * Instagram: https://www.instagram.com/_mohammadmofidi/
 
 
